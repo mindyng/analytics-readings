@@ -29,7 +29,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 
 
 ### SQL
-SQL has a lot of tips and tricks that take times to know. 
+SQL has a lot of tips and tricks that take time to know. 
   * [Mode Analytics SQL Guide](https://mode.com/sql-tutorial/introduction-to-sql/). Very complete, even intermediate users can learn from this series of tutorials.
   * [Learning SQL 201: Optimizing Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1) By Randy Au. I finally found a complete post on advanced SQL.
 
