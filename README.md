@@ -156,6 +156,7 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
 
 # Conferences
  * [Census - 2021 Operational Analytics Conference](https://www.getcensus.com/operational-analytics-conference-2021)
+ * [Coalesce - The Analytics Engineering Conference](https://coalesce.getdbt.com/)
 
 # Where is the community?
   * Twitter
