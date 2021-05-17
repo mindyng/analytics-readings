@@ -40,6 +40,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 SQL has a lot of tips and tricks that take time to know. 
   * [Mode Analytics SQL Guide](https://mode.com/sql-tutorial/introduction-to-sql/). Very complete, even intermediate users can learn from this series of tutorials.
   * [Learning SQL 201: Optimizing Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1) By Randy Au. I finally found a complete post on advanced SQL.
+  # * [SQL Optimization from Chartio](https://cdn2.hubspot.net/hubfs/392937/SQL%20Optimization.pdf?__hstc=158613477.c6a4c543a84cf2375e40c7c5c52f788c.1620019958078.1620069124111.1620334698312.4&__hssc=158613477.1.1620334698312&__hsfp=1027006628&hsCtaTracking=9311e47c-0dbe-451b-9129-3cbce358df08%7C3d2c58de-3379-41ef-9c8d-f0492f3bf1bd) 
 
 ### Python 
 Python is a very broad subject. Maybe you can follow this list for more [Python focused readings](https://github.com/charlax/python-education).
