@@ -34,6 +34,8 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 # Advice: Start with the business question. To be business strategic partners and not siloed, Analytics Engineers need to have a keen understanding of biz intelligence. And then supply the data in order to answer stakeholders' questions. 
 Looker Community is where busines intelligence folks post/comment, etc. If this is where they hang, then this is where they will talk about their standard [metrics of interest](https://community.looker.com/lookml-5/analytics-block-customer-retention-and-lifetime-value-survival-style-5780) i.e. what they want to measure in order to move the biz fwd.
 
+# On top of the usual business stakeholder, you also have your friendly DS who wants that CSV/data model in order to create their predictive models :) Kaggle is where the DS people hang out. And here is [Kaggle's business datasets](https://www.kaggle.com/tags/business) to understand what they would like to see in the data they would receive from AE's.
+
 ### SQL
 SQL has a lot of tips and tricks that take time to know. 
   * [Mode Analytics SQL Guide](https://mode.com/sql-tutorial/introduction-to-sql/). Very complete, even intermediate users can learn from this series of tutorials.
