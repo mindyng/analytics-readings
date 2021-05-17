@@ -1,3 +1,5 @@
+![engineering_intelligence](https://github.com/mindyng/analytics-readings/blob/e6438578d3c915165141ffccc7eea0193b500803/engineering_intelligence.png)
+
 # Resources for Analytics Engineers
 This repository is a curation of good blog posts and books for Analytics Engineers. It can also be very useful for Data Analysts and Data Scientists. 
 
