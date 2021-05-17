@@ -148,8 +148,13 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
   * [Ken Farmer](https://www.reddit.com/user/kenfar/?sort=top&t=year) It is healthy to read from those who still prefer the ETL stack.
   * [Holistics.io](https://www.holistics.io/blog/) About the contemporary practice of business intelligence.
 
+# Conferences
+ * [Census - Operational Analytics Confrence](https://www.getcensus.com/operational-analytics-conference-2021)
+
 # Where is the community?
   * Twitter
   * [Locally Optimistic](https://www.locallyoptimistic.com/)
   * [Reddit data engineering](https://www.reddit.com/r/dataengineering/). ETL, Business Intelligence, Data Science channels are also good.
+  
+ 
 
