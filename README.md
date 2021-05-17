@@ -149,7 +149,7 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
   * [Holistics.io](https://www.holistics.io/blog/) About the contemporary practice of business intelligence.
 
 # Conferences
- * [Census - Operational Analytics Confrence](https://www.getcensus.com/operational-analytics-conference-2021)
+ * [Census - 2021 Operational Analytics Conference](https://www.getcensus.com/operational-analytics-conference-2021)
 
 # Where is the community?
   * Twitter
