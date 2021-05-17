@@ -28,6 +28,7 @@ I really appreciate any contribution. Just make sure to describe the theme and w
 # Readings
 
 Definition of the Analytics Engineer: [The Analytics Engineer](https://www.locallyoptimistic.com/post/analytics-engineer/). 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=5s-KYV9zsWM&t=483s)
 
 #####
 # Start with the business question. Analytics Engineers supply the data in order to answer business questions as well as responsible for dashboarding as well. Looker is part of the modern data stack.
