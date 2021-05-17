@@ -30,7 +30,7 @@ I really appreciate any contribution. Just make sure to describe the theme and w
 
 Definition of the Analytics Engineer: [The Analytics Engineer](https://www.locallyoptimistic.com/post/analytics-engineer/). 
 
-### [Video with In-depth Explanation](https://www.youtube.com/watch?v=5s-KYV9zsWM&t=483s) (for the non-readers ;) )
+### [Video with In-depth Explanation](https://www.youtube.com/watch?v=5s-KYV9zsWM&t=483s) (for the audio learners ;) )
 
 # Advice: Start with the business question. To be business strategic partners and not siloed, Analytics Engineers need to have a keen understanding of biz intelligence. And then supply the data in order to answer stakeholders' questions. Looker Community is where busines intelligence folks post/comment, etc. If this is where they hang, then this is where they will talk about their standard [metrics of interest](https://community.looker.com/lookml-5/analytics-block-customer-retention-and-lifetime-value-survival-style-5780) i.e. what they want to measure in order to move the biz fwd.
 
@@ -44,7 +44,7 @@ SQL has a lot of tips and tricks that take time to know.
   #### Practice
   * [LeetCode Database Problems - all levels clearly explained and walked through](https://www.youtube.com/playlist?list=PLdrw9_aIADIPAMJW8I_S-S747oyiRtzpS)
   * [Business Practice Problems]() Caveat here is that you need membership to get solutions, but there might be some good solutions in Comments. I advise using db-fiddle to create tables and devlop solutions
-  * [Top Interview Q's from well-known tech co's](https://platform.stratascratch.com/coding?questionType=2&company=&ids=&is_correct_solution=&is_bookmarked=&is_freemium=&in_depth_solution=&difficulty=&python=&filters=&page=1&page_size=25)
+  * [Top Interview Q's from well-known tech co's](https://platform.stratascratch.com/coding?questionType=2&company=&ids=&is_correct_solution=&is_bookmarked=&is_freemium=&in_depth_solution=&difficulty=&python=&filters=&page=1&page_size=25) Not as challenging as Business Practice Problems (good warm-up)
 
 ### Python 
 Python is a very broad subject. Maybe you can follow this list for more [Python focused readings](https://github.com/charlax/python-education).
