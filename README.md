@@ -1,4 +1,5 @@
 ![engineering_intelligence](https://github.com/mindyng/analytics-readings/blob/e6438578d3c915165141ffccc7eea0193b500803/engineering_intelligence.png)
+Credit: [Lindsay Bongo](https://dribbble.com/Bongo)
 
 # Resources for Analytics Engineers
 This repository is a curation of good blog posts and books for Analytics Engineers. It can also be very useful for Data Analysts and Data Scientists. 
@@ -31,8 +32,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 
 ### [Video with In-depth Explanation](https://www.youtube.com/watch?v=5s-KYV9zsWM&t=483s) (for the non-readers ;) )
 
-# Advice: Start with the business question. To be business strategic partners and not siloed, Analytics Engineers need to have a keen understanding of biz intelligence. And then supply the data in order to answer stakeholders' questions. 
-Looker Community is where busines intelligence folks post/comment, etc. If this is where they hang, then this is where they will talk about their standard [metrics of interest](https://community.looker.com/lookml-5/analytics-block-customer-retention-and-lifetime-value-survival-style-5780) i.e. what they want to measure in order to move the biz fwd.
+# Advice: Start with the business question. To be business strategic partners and not siloed, Analytics Engineers need to have a keen understanding of biz intelligence. And then supply the data in order to answer stakeholders' questions. Looker Community is where busines intelligence folks post/comment, etc. If this is where they hang, then this is where they will talk about their standard [metrics of interest](https://community.looker.com/lookml-5/analytics-block-customer-retention-and-lifetime-value-survival-style-5780) i.e. what they want to measure in order to move the biz fwd.
 
 # On top of the usual business stakeholder, you also have your friendly DS who wants that CSV/data model in order to create their predictive models :) Kaggle is where the DS people hang out. And here is [Kaggle's business datasets](https://www.kaggle.com/tags/business) to understand what they would like to see in the data they would receive from AE's.
 
