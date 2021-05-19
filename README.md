@@ -1,9 +1,9 @@
 ![engineering_intelligence](https://github.com/mindyng/analytics-readings/blob/e6438578d3c915165141ffccc7eea0193b500803/engineering_intelligence.png)
 Credit: [Lindsay Bongo](https://dribbble.com/Bongo)
 
-Given that Analytics Engineer is a fairly new role on the data team, I wanted to compile a list of resources to be a one-stop knowledge shop. 
-
 # Welcome!
+
+Given that Analytics Engineer is a fairly new role on the data team, I wanted to compile a list of resources to be a one-stop knowledge shop. 
 
 First, let's be on the same page. What is an Analytics Engineer?
 [Analytics Engineer Definition](https://www.locallyoptimistic.com/post/analytics-engineer/). 
