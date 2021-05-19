@@ -201,5 +201,5 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
    * [MeetUp](https://www.meetup.com/)
    * [EventBrite](https://www.eventbrite.com/)
   
- ## Contribute
+ ## Contribute ❤️
 I really appreciate any contribution. If you do, please make sure to describe the theme and why you found the resource useful. 
