@@ -8,11 +8,11 @@ Given that Analytics Engineer is a fairly new role on the data team, I wanted to
 First. let's be on the same page. What is an Analytics Engineer?
 [Analytics Engineer Definition](https://www.locallyoptimistic.com/post/analytics-engineer/). 
 
-[Video Definition with In-depth Explanation](https://www.youtube.com/watch?v=5s-KYV9zsWM&t=483s) (for the audio learners ;) )
+[Video Definition with In-depth Explanation](https://www.youtube.com/watch?v=5s-KYV9zsWM&t=483s) (for the audio learners 😉)
 
 Following data as a product model for data teams, Analytics Engineers (AE) start with the business question. To be business strategic partners and not siloed engineers, Analytics Engineers have sharp business intelligence. Business needs are translated to data needs. AE's supply the data in order to answer business stakeholders' questions. 
 
-Looker Community is where business intelligence folks post/comment, etc. If this is where they hang, then this is where they will talk about business [metrics of interest](https://community.looker.com/lookml-5/analytics-block-customer-retention-and-lifetime-value-survival-style-5780)i.e. what they want to measure in order to move the business forward. How data is queried and computed can be found in the [Looker Community](https://community.looker.com/). 
+Looker Community is where business intelligence folks post/comment, etc. If this is where they hang, then this is where they will talk about business [metrics of interest](https://community.looker.com/lookml-5/analytics-block-customer-retention-and-lifetime-value-survival-style-5780) i.e. what they want to measure in order to move the business forward. How data is queried and computed can be found in the [Looker Community](https://community.looker.com/). 
 
 On top of the usual business stakeholder, you also have your friendly Data Scientist who needs that dataset to create their predictive models :) Kaggle is where the Data Scientist people hang out. And here is [Kaggle's business datasets](https://www.kaggle.com/tags/business) to get an idea of what sort of columns they would like to see in the data models they would receive from AE's.
 
@@ -41,14 +41,16 @@ PYTHON
 - [Gitlab repo to learn from](#github-gitlab-repo-to-learn-from)
 - [Python](#python)
 
-DASHBOARDING/DATA VISUALIZATION
+DASHBOARDS/DATA VISUALIZATIONS
+
 - [Data Visualisation](#data-visualisation)
 
 - [Testing data](#testing-data)
 
 EMBEDDED DATA TEAM IN CERTAIN FUNCTION:
-MARKETING
-- [Marketing and data](#marketing-and-data)
+
+- MARKETING
+ 1. [Marketing and data](#marketing-and-data)
 
 ZOOM OUT/BIG IDEAS:
 
