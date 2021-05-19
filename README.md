@@ -50,7 +50,7 @@ DASHBOARDS/DATA VISUALIZATIONS
 EMBEDDED DATA TEAM IN CERTAIN FUNCTION:
 
 - MARKETING
- 1. [Marketing and data](#marketing-and-data)
+ - [Marketing and data](#marketing-and-data)
 
 ZOOM OUT/BIG IDEAS:
 
