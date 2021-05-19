@@ -1,40 +1,69 @@
 ![engineering_intelligence](https://github.com/mindyng/analytics-readings/blob/e6438578d3c915165141ffccc7eea0193b500803/engineering_intelligence.png)
 Credit: [Lindsay Bongo](https://dribbble.com/Bongo)
 
-# Resources for Analytics Engineers
-This repository is a curation of good blog posts and books for Analytics Engineers. It can also be very useful for Data Analysts and Data Scientists. 
+Given that Analytics Engineer is a fairly new role on the data team, I wanted to compile a list of resources to be a one-stop knowledge shop. 
 
-## Contribute
-I really appreciate any contribution. Just make sure to describe the theme and why you found the resource useful. 
+# Welcome!
 
-# Table of Contents
-- [SQL](#sql)
-- [Python](#python)
-- [Infrastructure](#infrastructure)
-- [Analytics Skills](#analytics-skills)
+First. let's be on the same page. What is an Analytics Engineer?
+[Analytics Engineer Definition](https://www.locallyoptimistic.com/post/analytics-engineer/). 
+
+[Video Definition with In-depth Explanation](https://www.youtube.com/watch?v=5s-KYV9zsWM&t=483s) (for the audio learners ;) )
+
+Following data as a product model for data teams, Analytics Engineers (AE) start with the business question. To be business strategic partners and not siloed engineers, Analytics Engineers have sharp business intelligence. Business needs are translated to data needs. AE's supply the data in order to answer business stakeholders' questions. 
+
+Looker Community is where business intelligence folks post/comment, etc. If this is where they hang, then this is where they will talk about business [metrics of interest](https://community.looker.com/lookml-5/analytics-block-customer-retention-and-lifetime-value-survival-style-5780)i.e. what they want to measure in order to move the business forward. How data is queried and computed can be found in the [Looker Community](https://community.looker.com/). 
+
+On top of the usual business stakeholder, you also have your friendly Data Scientist who needs that dataset to create their predictive models :) Kaggle is where the Data Scientist people hang out. And here is [Kaggle's business datasets](https://www.kaggle.com/tags/business) to get an idea of what sort of columns they would like to see in the data models they would receive from AE's.
+
+Now that you know the general AE's role/responsibilities, here are the skills needed in order to hit OKR's and business goals. Let's go!
+
+## Table of Contents:
+
+MINDSET
+
+- [Thinking with data](#thinking-with-data)
+
+
+DATA WAREHOUSE
+
 - [Data Warehousing](#data-warehousing)
 - [Data Pipelines](#data-pipelines)
-- [Starting analytics in a company](#starting-analytics-in-a-company)
-- [Testing data](#testing-data)
-- [Success Stories](#success-stories)
-- [Organisation](#organisation)
+
+- [Analytics Skills](#analytics-skills)
+
+SQL 
+
+- [SQL](#sql)
+
+PYTHON
+
+- [Gitlab repo to learn from](#github-gitlab-repo-to-learn-from)
+
+DASHBOARDING/DATA VISUALIZATION
 - [Data Visualisation](#data-visualisation)
+
+- [Testing data](#testing-data)
+
+EMBEDDED DATA TEAM IN CERTAIN FUNCTION:
+MARKETING
 - [Marketing and data](#marketing-and-data)
-- [Thinking with data](#thinking-with-data)
-- [Github-Gitlab repo to learn from](#github-gitlab-repo-to-learn-from)
+
+ZOOM OUT/BIG IDEAS:
+
+- [Starting analytics in a company](#starting-analytics-in-a-company)
+- [Organisation](#organisation)
+- [Success Stories](#success-stories)
+- [Infrastructure](#infrastructure)
 - [Against ELT](#against-elt)
+
+Other Reading Lists:
 - [Other readings lists](#other-readings-lists)
+
+- [Community](#Community)
 - [Top bloggers/blog](#top-bloggersblog)
 
-# Readings
-
-Definition of the Analytics Engineer: [The Analytics Engineer](https://www.locallyoptimistic.com/post/analytics-engineer/). 
-
-### [Video with In-depth Explanation](https://www.youtube.com/watch?v=5s-KYV9zsWM&t=483s) (for the audio learners ;) )
-
-# Advice: Start with the business question. To be business strategic partners and not siloed, Analytics Engineers need to have a keen understanding of biz intelligence. And then supply the data in order to answer stakeholders' questions. Looker Community is where busines intelligence folks post/comment, etc. If this is where they hang, then this is where they will talk about their standard [metrics of interest](https://community.looker.com/lookml-5/analytics-block-customer-retention-and-lifetime-value-survival-style-5780) i.e. what they want to measure in order to move the biz fwd.
-
-# On top of the usual business stakeholder, you also have your friendly DS who wants that CSV/data model in order to create their predictive models :) Kaggle is where the DS people hang out. And here is [Kaggle's business datasets](https://www.kaggle.com/tags/business) to understand what they would like to see in the data they would receive from AE's.
+## Readings
 
 ### SQL
 SQL has a lot of tips and tricks that take time to know. 
@@ -145,6 +174,13 @@ I really love [Reading in Applied Data Science](https://github.com/hadley/stats3
 
 Knowing more about programming is an huge asset. For instance [Professional Programming list](https://github.com/charlax/professional-programming) is quite complete.
 
+BIG IDEAS:
+
+
+
+COMMUNITY
+
+Influencers:
 
 # Top bloggers/blog
   * [Randy Au](https://towardsdatascience.com/@Randy_Au). You can read almost all his posts there are all very relevant for analytics engineers.
@@ -163,5 +199,6 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
   * [Locally Optimistic](https://www.locallyoptimistic.com/)
   * [Reddit data engineering](https://www.reddit.com/r/dataengineering/). ETL, Business Intelligence, Data Science channels are also good.
   
- 
+ ## Contribute
+I really appreciate any contribution. Just make sure to describe the theme and why you found the resource useful. 
 
