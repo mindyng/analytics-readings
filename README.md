@@ -8,7 +8,7 @@ Given that Analytics Engineer is a fairly new role on the data team, I wanted to
 First. let's be on the same page. What is an Analytics Engineer?
 [Analytics Engineer Definition](https://www.locallyoptimistic.com/post/analytics-engineer/). 
 
-[Video Definition with In-depth Explanation](https://www.youtube.com/watch?v=5s-KYV9zsWM&t=483s) (for the audio learners 😉)
+[Video Definition with In-depth Explanation](https://www.youtube.com/watch?v=5s-KYV9zsWM&t=483s) (for the audio learners 😉 )
 
 Following data as a product model for data teams, Analytics Engineers (AE) start with the business question. To be business strategic partners and not siloed engineers, Analytics Engineers have sharp business intelligence. Business needs are translated to data needs. AE's supply the data in order to answer business stakeholders' questions. 
 
