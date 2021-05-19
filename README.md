@@ -186,7 +186,7 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
  * [Coalesce - The Analytics Engineering Conference](https://coalesce.getdbt.com/)
 
 # Social Media
-  * Twitter
+  * [Twitter](https://twitter.com)
   * [Locally Optimistic](https://www.locallyoptimistic.com/) Highly recommend joining their Slack!
   * [Reddit's Data Engineering](https://www.reddit.com/r/dataengineering/). ETL, Business Intelligence, Data Science channels are also good.
   * Slack channels
