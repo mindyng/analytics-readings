@@ -135,8 +135,8 @@ In dbt/SQL I like to browse [a repo open-sourced by Gitlab](https://gitlab.com/g
   * [Automated Testing In The Modern Data Warehouse](https://medium.com/@josh.temple/automated-testing-in-the-modern-data-warehouse-d5a251a866af). Practical advice to test data. Useful for everyone building data pipelines. Rare to found such a post dealing with non-sexy thing in data.
 
 ### Marketing and data
-  * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). :book: Reading some chapters can help you think like a marketer with data driven approach. It's a gem. Didn't find this kind of insights elsewhere.
-  * [Introduction to Algorithmic Marketing](https://algorithmic-marketing.online/). :book: I found good ideas to make more data driven initiatives for marketing. Very dense though, you can pass the equations.
+  * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). :book:  Reading some chapters can help you think like a marketer with data driven approach. It's a gem. Didn't find this kind of insights elsewhere.
+  * [Introduction to Algorithmic Marketing](https://algorithmic-marketing.online/). :book:  I found good ideas to make more data driven initiatives for marketing. Very dense though, you can pass the equations.
 
 ### Starting analytics in a company
   * [Building a data practice from scratch](https://www.locallyoptimistic.com/post/building-a-data-practice/). Very useful for your first weeks as a data person. 
