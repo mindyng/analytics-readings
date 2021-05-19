@@ -190,7 +190,7 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
   * [Locally Optimistic](https://www.locallyoptimistic.com/) Highly recommend joining their Slack!
   * [Reddit's Data Engineering](https://www.reddit.com/r/dataengineering/). ETL, Business Intelligence, Data Science channels are also good.
   * Slack channels
-    - [wimlds.slack.com](wimlds.slack.com)
+    - [wimlds.slack.com](https://wimlds.slack.com/)
     - futuredataconf.slack.com
     - thedataschool.slack.com
     - data-engineering-sd.slack.com
