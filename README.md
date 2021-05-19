@@ -190,13 +190,13 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
   * [Locally Optimistic](https://www.locallyoptimistic.com/) Highly recommend joining their Slack!
   * [Reddit's Data Engineering](https://www.reddit.com/r/dataengineering/). ETL, Business Intelligence, Data Science channels are also good.
   * Slack channels
-    -wimlds.slack.com
-    -futuredataconf.slack.com
-    -thedataschool.slack.com
-    -data-engineering-sd.slack.com
-    -wb-forum.slack.com
-    -earlywtm.slack.com
-    -apache-airflow.slack.com
+    - [wimlds.slack.com](wimlds.slack.com)
+    - futuredataconf.slack.com
+    - thedataschool.slack.com
+    - data-engineering-sd.slack.com
+    - wb-forum.slack.com
+    - earlywtm.slack.com
+    - apache-airflow.slack.com
     -[Union All - Unofficial Looker Slack](https://community.looker.com/getting-started-1006/unofficial-slack-group-union-all-20594)
    * [MeetUp](https://www.meetup.com/)
    * [EventBrite](https://www.eventbrite.com/)
