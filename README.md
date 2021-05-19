@@ -39,6 +39,7 @@ SQL
 PYTHON
 
 - [Gitlab repo to learn from](#github-gitlab-repo-to-learn-from)
+- [Python](#python)
 
 DASHBOARDING/DATA VISUALIZATION
 - [Data Visualisation](#data-visualisation)
