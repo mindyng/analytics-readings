@@ -16,7 +16,7 @@ Looker Community is where business intelligence folks post/comment, etc. If this
 
 On top of the usual business stakeholder, you also have your friendly Data Scientist who needs that dataset to create their predictive models :) Kaggle is where the Data Scientist people hang out. And here is [Kaggle's business datasets](https://www.kaggle.com/tags/business) to get an idea of what sort of columns they would like to see in the data models they would receive from AE's.
 
-Now that you know the general AE's role/responsibilities, here are the skills needed in order to hit OKR's and business goals. Let's go!
+Now that you know the general AE's role/responsibilities, here are the skills needed in order to hit OKR's and business goals along with some supplemental readings. Let's go!
 
 ## Table of Contents:
 
@@ -47,10 +47,12 @@ DASHBOARDS/DATA VISUALIZATIONS
 
 - [Testing data](#testing-data)
 
-EMBEDDED DATA TEAM IN CERTAIN FUNCTION:
+### SUPPLEMENTAL
+
+EMBEDDED DATA TEAMS IN CERTAIN FUNCTION:
 
 - MARKETING
- - [Marketing and data](#marketing-and-data)
+ 1. [Marketing and data](#marketing-and-data)
 
 ZOOM OUT/BIG IDEAS:
 
