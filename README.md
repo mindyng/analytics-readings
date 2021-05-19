@@ -23,14 +23,13 @@ Now that you know the general AE's role/responsibilities, here are the skills ne
 MINDSET
 
 - [Thinking with data](#thinking-with-data)
-
+- [Analytics Skills](#analytics-skills)
 
 DATA WAREHOUSE
 
 - [Data Warehousing](#data-warehousing)
 - [Data Pipelines](#data-pipelines)
-
-- [Analytics Skills](#analytics-skills)
+- [Testing data](#testing-data)
 
 SQL 
 
@@ -44,8 +43,6 @@ PYTHON
 DASHBOARDS / DATA VISUALIZATIONS
 
 - [Data Visualisation](#data-visualisation)
-
-- [Testing data](#testing-data)
 
 ### SUPPLEMENTAL
 
@@ -83,6 +80,11 @@ These books/articles helped me to think better when analysing data.
   * [Why you should care about the Nate Silver vs. Nassim Taleb Twitter war](https://towardsdatascience.com/why-you-should-care-about-the-nate-silver-vs-nassim-taleb-twitter-war-a581dce1f5fc). Great chess players learn from high elo games. Great data people learn from debate between data experts. 
   * [Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f). I have not read them all yet. But these suggestions seems judicious. 
 
+### Analytics Skills
+  * [One analyst's guide for going from good to great](https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/)
+  * [Suceeding as the first data person in a small company/startup](https://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c). A must read for anyone working in data even in a big company. 
+  * [Prioritizing data science work](https://towardsdatascience.com/prioritizing-data-science-work-936b3765fd45). Too many engineers like building ivory towers. Make sure you don't fall in the trap.
+
 ### Data Warehousing
 
   * [The beginner guide to data engineering series](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7). Start here if you don't know what is a star schema, Airflow and some basic practices when writing data pipelines.    
@@ -100,10 +102,8 @@ These books/articles helped me to think better when analysing data.
   * [Maintenable ETL: Tips for Making Your Pipelines Easier to Support and Extend](https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/). Best practices to write good ETL. 
   * [The Data Warehouse ETL Toolkit](https://www.amazon.com/gp/product/0764567578?ie=UTF8&tag=decworks-20&lin%20kCode=xm2&camp=1789&creativeASIN=0764567578) :book: Once again, very dense book but you can find good ideas. 
 
-### Analytics Skills
-  * [One analyst's guide for going from good to great](https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/)
-  * [Suceeding as the first data person in a small company/startup](https://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c). A must read for anyone working in data even in a big company. 
-  * [Prioritizing data science work](https://towardsdatascience.com/prioritizing-data-science-work-936b3765fd45). Too many engineers like building ivory towers. Make sure you don't fall in the trap.
+### Testing data
+  * [Automated Testing In The Modern Data Warehouse](https://medium.com/@josh.temple/automated-testing-in-the-modern-data-warehouse-d5a251a866af). Practical advice to test data. Useful for everyone building data pipelines. Rare to found such a post dealing with non-sexy thing in data.
 
 ### SQL
 SQL has a lot of tips and tricks that take time to know. 
@@ -130,9 +130,6 @@ In dbt/SQL I like to browse [a repo open-sourced by Gitlab](https://gitlab.com/g
 
 ### Data Visualisation 
    * [Fundamentals of Data Visualisation](https://serialmentor.com/dataviz/). Complete guide to visualisation. Free version online.
-
-### Testing data
-  * [Automated Testing In The Modern Data Warehouse](https://medium.com/@josh.temple/automated-testing-in-the-modern-data-warehouse-d5a251a866af). Practical advice to test data. Useful for everyone building data pipelines. Rare to found such a post dealing with non-sexy thing in data.
 
 ### Marketing and data
   * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). :book: Reading some chapters can help you think like a marketer with data driven approach. It's a gem. Didn't find this kind of insights elsewhere.
