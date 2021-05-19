@@ -5,7 +5,7 @@ Given that Analytics Engineer is a fairly new role on the data team, I wanted to
 
 # Welcome!
 
-First. let's be on the same page. What is an Analytics Engineer?
+First, let's be on the same page. What is an Analytics Engineer?
 [Analytics Engineer Definition](https://www.locallyoptimistic.com/post/analytics-engineer/). 
 
 [Video Definition with In-depth Explanation](https://www.youtube.com/watch?v=5s-KYV9zsWM&t=483s) (for the audio learners 😉 )
