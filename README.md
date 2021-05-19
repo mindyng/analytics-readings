@@ -191,7 +191,7 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
   * [Reddit's Data Engineering](https://www.reddit.com/r/dataengineering/). ETL, Business Intelligence, Data Science channels are also good.
   * Slack channels
     - [wimlds.slack.com](https://wimlds.slack.com/)
-    - [futuredataconf.slack.com] (https://futuredataconf.slack.com)
+    - [futuredataconf.slack.com](https://futuredataconf.slack.com)
     - [thedataschool.slack.com](https://thedataschool.slack.com)
     - [data-engineering-sd.slack.com](https://data-engineering-sd.slack.com)
     - [wb-forum.slack.com](https://wb-forum.slack.com)
