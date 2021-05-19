@@ -41,7 +41,7 @@ PYTHON
 - [Gitlab repo to learn from](#github-gitlab-repo-to-learn-from)
 - [Python](#python)
 
-DASHBOARDS/DATA VISUALIZATIONS
+DASHBOARDS / DATA VISUALIZATIONS
 
 - [Data Visualisation](#data-visualisation)
 
@@ -54,7 +54,7 @@ EMBEDDED DATA TEAMS IN CERTAIN FUNCTION:
 - MARKETING
  1. [Marketing and data](#marketing-and-data)
 
-ZOOM OUT/BIG IDEAS:
+BIG IDEAS:
 
 - [Starting analytics in a company](#starting-analytics-in-a-company)
 - [Organisation](#organisation)
@@ -62,8 +62,11 @@ ZOOM OUT/BIG IDEAS:
 - [Infrastructure](#infrastructure)
 - [Against ELT](#against-elt)
 
-Other Reading Lists:
+OTHER READINGS:
+
 - [Other readings lists](#other-readings-lists)
+
+AE TRIBE:
 
 - [Community](#Community)
 - [Top bloggers/blog](#top-bloggersblog)
@@ -164,7 +167,7 @@ In dbt/SQL I like to browse [a repo open-sourced by Gitlab](https://gitlab.com/g
 The concept of analytics engineering is tightly coupled with the ELT view of data warehousing. It is interesting to learn from the people that would prefer the ETL. 
 [Reddit comments on Snowflake super-expensive cost](https://www.reddit.com/r/dataengineering/comments/is39id/snowflake_cost_analysis/)
 
-### Other readings lists
+### Other reading lists
 
    The GitLab data team also made an [excellent list](https://about.gitlab.com/handbook/business-ops/data-team/#data-learning-and-resources). (close to mine)
 
@@ -189,7 +192,7 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
  * [Census - 2021 Operational Analytics Conference](https://www.getcensus.com/operational-analytics-conference-2021)
  * [Coalesce - The Analytics Engineering Conference](https://coalesce.getdbt.com/)
 
-# Social Media
+## Social Media
   * [Twitter](https://twitter.com)
   * [Locally Optimistic](https://www.locallyoptimistic.com/) Highly recommend joining their Slack!
   * [Reddit's Data Engineering](https://www.reddit.com/r/dataengineering/). ETL, Business Intelligence, Data Science channels are also good.
