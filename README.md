@@ -14,7 +14,7 @@ Following data as a product model for data teams, Analytics Engineers (AE) start
 
 Looker Community is where business intelligence folks post/comment, etc. If this is where they hang, then this is where they will talk about business [metrics of interest](https://community.looker.com/lookml-5/analytics-block-customer-retention-and-lifetime-value-survival-style-5780) i.e. what they want to measure in order to move the business forward. How data is queried and computed can be found in the [Looker Community](https://community.looker.com/). 
 
-On top of the usual business stakeholder, you also have your friendly Data Scientist who needs that dataset to create their predictive models :) Kaggle is where the Data Scientist people hang out. And here is [Kaggle's business datasets](https://www.kaggle.com/tags/business) to get an idea of what sort of columns they would like to see in the data models they would receive from AE's.
+On top of the usual business stakeholder, you also have your friendly Data Scientist who needs that dataset to create their predictive models :) Kaggle is where the Data Scientist people hang out. And here are [Kaggle's business datasets](https://www.kaggle.com/tags/business) to get an idea of what sort of columns they would like to see in the data models they would receive from AE's.
 
 Now that you know the general AE's role/responsibilities, here are the skills needed in order to hit OKR's and business goals along with some supplemental readings. Let's go!
 
