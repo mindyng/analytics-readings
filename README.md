@@ -114,6 +114,7 @@ SQL has a lot of tips and tricks that take time to know.
   * [LeetCode Database Problems](https://www.youtube.com/playlist?list=PLdrw9_aIADIPAMJW8I_S-S747oyiRtzpS) All levels clearly explained and walked through
   * [Business Practice Problems]() Caveat here is that you need membership to get solutions, but there might be some good solutions in Comments. I advise using db-fiddle to create tables and to devlop solutions
   * [Top Interview Q's from well-known tech co's](https://platform.stratascratch.com/coding?questionType=2&company=&ids=&is_correct_solution=&is_bookmarked=&is_freemium=&in_depth_solution=&difficulty=&python=&filters=&page=1&page_size=25) Not as challenging as Business Practice Problems (good warm-up)
+  * [Real-World Practice Problems](https://sqlpad.io/)
 
 ### Python 
 Python is a very broad subject. Maybe you can follow this list for more [Python focused readings](https://github.com/charlax/python-education).
