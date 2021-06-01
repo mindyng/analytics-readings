@@ -91,7 +91,6 @@ These books/articles helped me to think better when analysing data.
   * [The Fifth Advantage by Peter Senge](http://kmcenter.rid.go.th/kmc08/km_59/manual_59/Book6/The-Fifth-Discipline.pdf) This book lays the groundwork of systems thinking upon which many modern management and leadership books have been written. 
   * [Harvard Business Review](https://hbr.org/)
   * [Strategy&](https://www.strategyand.pwc.com/) strategy consulting business unit of PricewaterhouseCoopers (PwC), one of the Big Four professional service firms
-  * last but not least, talk to your business partners and understand their processes and how it generates the data you see day in and day out
 
 ### Data Warehousing
 
