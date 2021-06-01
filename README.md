@@ -24,6 +24,7 @@ MINDSET
 
 - [Thinking with data](#thinking-with-data)
 - [Analytics Skills](#analytics-skills)
+- [Business Acumen](#business-acumen)
 
 DATA WAREHOUSE
 
@@ -84,6 +85,13 @@ These books/articles helped me to think better when analysing data.
   * [One analyst's guide for going from good to great](https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/)
   * [Suceeding as the first data person in a small company/startup](https://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c). A must read for anyone working in data even in a big company. 
   * [Prioritizing data science work](https://towardsdatascience.com/prioritizing-data-science-work-936b3765fd45). Too many engineers like building ivory towers. Make sure you don't fall in the trap.
+
+### Business Acumen
+  * [Competitive Advantage by Michael Porter](http://www.mim.ac.mw/books/Michael%20E.%20Porter%20-%20Competitive%20Strategy.pdf) Seminal book for defining how businesses compete
+  * [The Fifth Advantage by Peter Senge](http://kmcenter.rid.go.th/kmc08/km_59/manual_59/Book6/The-Fifth-Discipline.pdf) This book lays the groundwork of systems thinking upon which many modern management and leadership books have been written. 
+  * [Harvard Business Review](https://hbr.org/)
+  * [Strategy&](https://www.strategyand.pwc.com/) strategy consulting business unit of PricewaterhouseCoopers (PwC), one of the Big Four professional service firms
+  * last but not least, talk to your business partners and understand their processes and how it generates the data you see day in and day out
 
 ### Data Warehousing
 
